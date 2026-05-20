@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Time for Kids OT \u0026 CRC Wayanad",
+  "description": "Pediatric Occupational Therapy and Child Rehabilitation Centre in Muttil North, Wayanad, Kerala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
